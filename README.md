@@ -1,13 +1,34 @@
-<h1 align="center">Hi 👋, I'm Swarupa</h1>
-<h3 align="center">Java Backend Developer from India</h3>
+<h1 align="center">Hi 👋, I'm Swarupa Mohapatra</h1>
+<h3 align="center">Software Developer | Java | Spring Boot | Microservices | AWS</h3>
 
-- 🔭 I’m currently working on Spring Boot Projects
-- 🌱 I’m learning Microservices & AWS
-- 💬 Ask me about Java, Spring Boot, REST API
-- 📫 How to reach me: yourmail@gmail.com
+---
 
-### Connect with me:
-[LinkedIn](https://linkedin.com/in/yourprofile)
+### 👩‍💻 About Me
+- 🔭 Currently working as **Software Developer** and building enterprise applications using **Java & Spring Boot**
+- 🌱 Learning **Microservices Architecture** and **AWS Cloud Deployment**
+- 💬 Ask me about **Java, Spring Boot, REST APIs, JWT Authentication**
+- 📫 Reach me at: **swarupamohapatra11@gmail.com**
+- ⚡ Focused on building **scalable, secure backend systems**
 
-### Languages and Tools:
-Java | Spring Boot | MySQL | AWS | Git
+---
+
+### 🤝 Connect with Me
+- 💼 LinkedIn: https://linkedin.com/in/swarupa-mohapatra-15a649227/
+
+---
+
+### 🛠️ Languages & Tools
+- Java  
+- Spring Boot  
+- Spring Security (JWT)  
+- Microservices  
+- MySQL  
+- AWS EC2  
+- REST APIs  
+- Hibernate & JPA  
+- Git & GitHub  
+
+---
+
+### 🚀 Core Skills
+`Java` `Spring Boot` `Microservices` `AWS` `SQL` `REST API` `JWT` `Hibernate` `Spring Security`
