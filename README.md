@@ -4,7 +4,7 @@
 ---
 
 ### 👩‍💻 About Me
-- 🔭 Currently working as **Software Developer** and building enterprise applications using **Java & Spring Boot**
+- 🔭 Currently working as **Software Developer**, building enterprise applications using **Java & Spring Boot**
 - 🌱 Learning **Microservices Architecture** and **AWS Cloud Deployment**
 - 💬 Ask me about **Java, Spring Boot, REST APIs, JWT Authentication**
 - 📫 Reach me at: **swarupamohapatra11@gmail.com**
@@ -13,7 +13,8 @@
 ---
 
 ### 🤝 Connect with Me
-- 💼 LinkedIn: https://linkedin.com/in/swarupa-mohapatra-15a649227/
+- 💼 LinkedIn: [Swarupa Mohapatra](https://linkedin.com/in/swarupa-mohapatra-15a649227/)
+- 🐱 GitHub: [Swarupa‑2000](https://github.com/Swarupa-2000)
 
 ---
 
@@ -25,8 +26,8 @@ Java | Spring Boot | Spring Security | Microservices | REST APIs | Hibernate | J
 ### 🚀 Featured Projects
 
 #### 🔹 Business Management System
-- Multi-store business platform with inventory, payments, and workforce management
-- Implemented JWT authentication & role-based access
+- Multi-store platform with inventory, payments, and workforce management
+- JWT authentication & role‑based access
 - Microservices architecture with AWS deployment
 - REST APIs for product, transaction, and task tracking
 
@@ -37,26 +38,26 @@ Java | Spring Boot | Spring Security | Microservices | REST APIs | Hibernate | J
 
 #### 🔹 Blogging Application
 - Spring Boot based CRUD platform
-- Authentication & authorization using Spring Security
+- Authentication & authorization with Spring Security
 - Pagination & optimized queries
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Swarupa-2000&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
 
 ### 📈 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swarupa-2000&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ### 🔥 Streak Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=your-github-username&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=Swarupa-2000&theme=tokyonight" />
 </p>
