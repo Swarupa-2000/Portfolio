@@ -13,8 +13,10 @@
 ---
 
 ### 🤝 Connect with Me
-- 💼 LinkedIn: [Swarupa Mohapatra](https://linkedin.com/in/swarupa-mohapatra-15a649227/)
-- 🐱 GitHub: [Swarupa‑2000](https://github.com/Swarupa-2000)
+- 💼 LinkedIn: [Swarupa Mohapatra](https://www.linkedin.com/in/swarupa-mohapatra-15a649227/)  
+- 🐱 GitHub Portfolio: [Portfolio](https://github.com/Swarupa-2000/Portfolio)  
+- 🏆 HackerRank: [Profile](https://www.hackerrank.com/profile/swarupamohapatr2)  
+- 📚 GeeksforGeeks: [Profile](https://www.geeksforgeeks.org/profile/swarupamoh8lwb)
 
 ---
 
