@@ -6,6 +6,7 @@
 ### 👩‍💻 About Me
 - 🔭 Currently working as **Software Developer**, building enterprise applications using **Java, Spring Boot, and React JS**
 - 🌱 Learning **Microservices Architecture** and **AWS Cloud Deployment**
+- 🤖 Hands-on experience using Generative AI tools for code generation, debugging, and documentation
 - 💬 Ask me about **Java, Spring Boot, React JS, REST APIs, JWT Authentication**
 - 📫 Reach me at: **swarupamohapatra11@gmail.com**
 - ⚡ Focused on building **scalable, secure full-stack applications**
@@ -21,8 +22,7 @@
 ---
 
 ### 🛠️ Languages & Tools
-Java | Spring Boot | React JS | Spring Security | Microservices | REST APIs | Hibernate | JPA | MySQL | AWS EC2 | Git | Swagger | Postman
-
+Java | Spring Boot | React JS | Spring Security | Microservices | REST APIs | Hibernate | JPA | MySQL | AWS EC2 | Git | Swagger | Postman | Generative AI | ChatGPT | Claude | GitHub Copilot
 ---
 
 ### 🚀 Featured Projects
