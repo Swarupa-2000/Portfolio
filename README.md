@@ -43,6 +43,25 @@ Java | Spring Boot | React JS | Spring Security | Microservices | REST APIs | Hi
 - Services communicate via REST APIs, handling bookings, driver management, and admin operations.  
 - Key Features: Modular microservices, shared database for smooth transition, independent service operations.
 
+#### 🔹 AccountBook – Java Microservices System (Gen AI Assisted)
+* **Project Type:** Microservices-based Accounting & Financial Management System
+* Developed using Java Spring Boot microservices architecture with independent services.
+* Implemented REST APIs for inter-service communication and client integration.
+* Built modules for user management, account handling, and transaction processing.
+* Implemented JWT-based authentication and Spring Security authorization.
+* Designed layered architecture (Controller, Service, Repository).
+* Added exception handling and standardized API responses.
+* Optimized database queries using JPA and indexing.
+* Ensured modular and scalable microservices deployment.
+
+**🤖 Generative AI Usage:**
+
+* Built using Generative AI-assisted development workflow.
+* Used ChatGPT and Claude for microservices architecture planning.
+* Generated boilerplate services and REST API scaffolding.
+* Used AI-assisted debugging and documentation generation.
+* Accelerated development using AI-based coding assistance.
+
 #### 🔹 BookBuddy Application
 - [Google Play Link](https://play.google.com/store/apps/details?id=com.trekCampers.siance)  
 - **Duration:** Jan 2024 – Apr 2024  
