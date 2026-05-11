@@ -28,7 +28,10 @@ Java | Spring Boot | React JS | Spring Security | Microservices | REST APIs | Hi
 ### 🚀 Featured Projects
 
 #### 🔹 RNDSAN Business Management System
-- [Project Link](https://admin.rndsan.com/login)  
+- [Project Link- Admin Panel](https://admin.rndsan.com/login)
+- [Project Link- User Panel](https://www.rndsan.com/)
+- [Project Link- Store Panel](https://store.rndsan.com/login)
+- [Swagger Link](https://rndsan.com/swagger-ui/index.html)
 - **Duration:** Jan 2025 – Present  
 - Developed an enterprise POS, Healthcare & Workforce Management System using Spring Boot with layered architecture.  
 - Implemented OTP login, JWT authentication, and RBAC.  
