@@ -44,6 +44,7 @@ Java | Spring Boot | React JS | Spring Security | Microservices | REST APIs | Hi
 - Key Features: Modular microservices, shared database for smooth transition, independent service operations.
 
 #### 🔹 AccountBook – Java Microservices System (Gen AI Assisted)
+[Swagger Link](https://accountbook.jayrajgroup.org/api-docs/)  s
 * **Project Type:** Microservices-based Accounting & Financial Management System
 * Developed using Java Spring Boot microservices architecture with independent services.
 * Implemented REST APIs for inter-service communication and client integration.
