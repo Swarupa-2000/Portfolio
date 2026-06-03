@@ -30,7 +30,7 @@ Java | Spring Boot | React JS | Spring Security | Microservices | REST APIs | Hi
 #### 🔹 RNDSAN Business Management System
 - [Project Link- Admin Panel](https://admin.rndsan.com/login)
 - [Project Link- User Panel](https://www.rndsan.com/)
-- [Project Link- Store Panel] (https://store.rndsan.com/login)
+- [Project Link- Store Panel](https://store.rndsan.com/login)
 - [Swagger Link](https://rndsan.com/swagger-ui/index.html)
 - **Duration:** Jan 2025 – Present
 - **Tech Stack:** Java, Spring Boot, MySQL, Monolithic Architecture, Spring Security, JWT, Redis, WebSocket, Swagger, Git, Linux VPS
