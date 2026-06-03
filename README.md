@@ -51,6 +51,7 @@ Java | Spring Boot | React JS | Spring Security | Microservices | REST APIs | Hi
 #### 🔹 AccountBook – Java Microservices System (Gen AI Assisted)
 * [Swagger Link](https://accountbook.jayrajgroup.org/api-docs/)
 * **Project Type:** Microservices-based Accounting & Financial Management System
+* **Tech Stack:** Java, Spring Boot, Microservices, MySQL, Spring Security, JWT, JPA/Hibernate, REST APIs, Swagger, Git
 * Developed using Java Spring Boot microservices architecture with independent services.
 * Implemented REST APIs for inter-service communication and client integration.
 * Built modules for user management, account handling, and transaction processing.
