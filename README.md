@@ -78,7 +78,8 @@ Java | Spring Boot | React JS | Spring Security | Microservices | REST APIs | Hi
 
 #### 🔹 One Click – Service Booking Platform
 - [Google Play Link-For User](https://play.google.com/store/apps/details?id=com.oneclickservice&pcampaignid=web_share)  
-- [Google Play Link-For Booking Partner](https://play.google.com/store/apps/details?id=com.oneclick.partner&pcampaignid=web_share)  
+- [Google Play Link-For Booking Partner](https://play.google.com/store/apps/details?id=com.oneclick.partner&pcampaignid=web_share)
+- **Tech Stack:** Node.js, Express.js, React Native, MySQL, JWT Authentication, REST APIs, Firebase Notifications, Git
 - **Duration:** Mar 2024 – Aug 2024  
 - Platform to browse, book, and manage home services.  
 - Implemented OTP-based authentication, real-time booking updates, and notifications.  
