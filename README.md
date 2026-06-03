@@ -42,7 +42,8 @@ Java | Spring Boot | React JS | Spring Security | Microservices | REST APIs | Hi
 
 #### 🔹 GOSAFARI – Vehicle Booking & Management System
 - [Google Play Link](https://play.google.com/store/apps/details?id=com.company.gosafari)  
-- **Duration:** Sep 2024 – Dec 2024  
+- **Duration:** Sep 2024 – Dec 2024
+- **Tech Stack:** Node.js, Express.js, React Native, MySQL, REST APIs, JWT Authentication, Microservices, Git
 - Developed a microservices-based vehicle booking & management system, transitioning from monolithic architecture.  
 - Services communicate via REST APIs, handling bookings, driver management, and admin operations.  
 - Key Features: Modular microservices, shared database for smooth transition, independent service operations.
