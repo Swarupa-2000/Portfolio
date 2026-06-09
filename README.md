@@ -40,6 +40,26 @@ Java | Spring Boot | React JS | Spring Security | Microservices | REST APIs | Hi
 - Designed workforce hierarchy and healthcare workflows. Integrated WebSocket tracking.  
 - Optimized performance using indexing, query tuning, and Redis caching. Deployed on Linux VPS.
 
+#### 🔹 Hospital Management System (HMS)
+- **Duration:** 2025 – Present
+- **Tech Stack:** Node.js, NestJS, TypeScript, Prisma ORM, PostgreSQL, JWT Authentication, Swagger, Docker, REST APIs
+- Built a full-featured Hospital Management System backend using **NestJS** with modular architecture.
+- Implemented multi-role system: **Super Admin, Hospital Admin, and Hospital Staff** with role-based access control.
+- Designed modules for **Patient Management, Inventory, Pharmacy, Payment (Razorpay), and Supplier** management.
+- Implemented hospital registration & approval workflow — hospitals register as PENDING and are activated by Super Admin.
+- Secured APIs using **JWT + Passport**, with rate limiting (Throttler) and security headers (Helmet).
+- Used **Prisma ORM** with PostgreSQL for type-safe database access and managed migrations.
+- Containerized using **Docker** with separate dev and production Docker Compose configurations.
+- Documented all APIs via **Swagger UI** with clear permission matrix across roles.
+
+#### 🔹 CPMS – Client & Project Management System
+- **Duration:** 2025 – Present
+- **Tech Stack:** React.js, TypeScript, Electron.js, Redux Toolkit, REST APIs
+- Building a **desktop application** for client and project management using Electron.js + React.js.
+- Implemented Redux Toolkit for global state management across clients, projects, and tasks.
+- Designed a clean, professional UI with muted Steel & Mauve color palette for business use.
+- Features include client onboarding, project tracking, task management, and reporting dashboards.
+
 #### 🔹 GOSAFARI – Vehicle Booking & Management System
 - [Google Play Link](https://play.google.com/store/apps/details?id=com.company.gosafari)  
 - **Duration:** Sep 2024 – Dec 2024
