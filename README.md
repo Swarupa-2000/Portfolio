@@ -47,7 +47,7 @@ Java | Spring Boot | React JS | Spring Security | Microservices | REST APIs | Hi
 * Designed independent microservices for **Patient Management, Inventory, Pharmacy, Payment, and Supplier** management.
 * Implemented hospital registration & approval workflow — hospitals register as **PENDING** and are activated by Super Admin.
 * Secured APIs using **JWT + Spring Security**, with role-based authorization and protected REST endpoints.
-* Used **JPA/Hibernate** with PostgreSQL/MySQL for database operations and entity relationship management.
+* Used **JPA/Hibernate** with PostgreSQL for database operations and entity relationship management.
 * Implemented **REST API-based communication between microservices** for modular and scalable service integration.
 * Containerized microservices using **Docker** with separate development and production configurations.
 * Documented all APIs via **Swagger UI** with a clear permission matrix across roles.
