@@ -64,14 +64,15 @@ Java | Spring Boot | React JS | Spring Security | Microservices | REST APIs | Hi
 #### 🔹 SiancePay – UPI-Based Payments Platform
 
 * **Duration:** 2026 – Present
-* **Tech Stack:** Java 21, Spring Boot 3.5, MySQL, Apache Kafka, Redis, Spring Cloud Gateway, Eureka, Docker, Kubernetes, Swagger/OpenAPI
-* Designed and contributed to a **UPI-aligned payment platform** using a scalable **microservices architecture** with dedicated services for authentication, accounts, transactions, notifications, and API gateway/service discovery.
-* Implemented **JWT-based authentication and security** with Redis-backed caching for OTPs, tokens, and idempotency handling.
+* **Tech Stack:** Java 21, Spring Boot 3.5, MySQL, Apache Kafka, Redis, Spring Cloud Gateway, Eureka, SSO, JWT, Docker, Kubernetes, Swagger/OpenAPI
+* Designed and contributed to a **UPI-aligned payment platform** using a scalable **microservices architecture** with dedicated services for authentication, accounts, transactions, notifications, API gateway, and service discovery.
+* Implemented **SSO (Single Sign-On)** along with **JWT-based authentication and security** for centralized and secure user authentication across services.
+* Used **Redis** for caching OTPs, authentication tokens, and idempotency-related data to improve performance and reliability.
 * Built **event-driven communication using Apache Kafka** for transaction processing and notification workflows.
 * Implemented inter-service reliability patterns including **idempotent REST calls and reconciliation checks** to maintain data consistency across independently deployed services.
 * Containerized microservices using **Docker** and orchestrated deployments using **Kubernetes**.
 * Configured **CI/CD pipelines** for independent service deployment and delivery.
-* Documented and tested REST APIs using **springdoc-openapi and Swagger UI** across services.
+* Documented and tested REST APIs using **Springdoc OpenAPI and Swagger UI** across services.
 * Focused on building a **secure, scalable, reliable, and independently deployable payment processing architecture**.
 
 
