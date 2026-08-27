@@ -61,15 +61,19 @@ Java | Spring Boot | React JS | Spring Security | Microservices | REST APIs | Hi
 - Designed a clean, professional UI with muted Steel & Mauve color palette for business use.
 - Features include client onboarding, project tracking, task management, and reporting dashboards.
 
-####🔹 SiancePay – UPI-Based Payments Platform
-Duration: 2026 – Present
-Tech Stack: Java 21, Spring Boot 3.5, MySQL, Apache Kafka, Redis, Spring Cloud Gateway, Eureka, Docker, Kubernetes, Swagger/OpenAPI
-Designed and contributed to a UPI-aligned payments platform built on a microservices architecture with dedicated services for authentication, accounts, transactions, notifications, and API gateway/service discovery.
-Implemented JWT-based authentication and security layer, with Redis-backed caching for OTP, tokens, and idempotency handling.
-Built event-driven communication between services using Kafka for transaction and notification workflows.
-Contributed to inter-service reliability patterns (idempotent REST calls, reconciliation checks) to maintain data consistency across independently deployed services.
-Containerized services with Docker and orchestrated deployment via Kubernetes, with CI/CD pipelines per service.
-Documented APIs using springdoc-openapi/Swagger UI across all services.
+#### 🔹 SiancePay – UPI-Based Payments Platform
+
+* **Duration:** 2026 – Present
+* **Tech Stack:** Java 21, Spring Boot 3.5, MySQL, Apache Kafka, Redis, Spring Cloud Gateway, Eureka, Docker, Kubernetes, Swagger/OpenAPI
+* Designed and contributed to a **UPI-aligned payment platform** using a scalable **microservices architecture** with dedicated services for authentication, accounts, transactions, notifications, and API gateway/service discovery.
+* Implemented **JWT-based authentication and security** with Redis-backed caching for OTPs, tokens, and idempotency handling.
+* Built **event-driven communication using Apache Kafka** for transaction processing and notification workflows.
+* Implemented inter-service reliability patterns including **idempotent REST calls and reconciliation checks** to maintain data consistency across independently deployed services.
+* Containerized microservices using **Docker** and orchestrated deployments using **Kubernetes**.
+* Configured **CI/CD pipelines** for independent service deployment and delivery.
+* Documented and tested REST APIs using **springdoc-openapi and Swagger UI** across services.
+* Focused on building a **secure, scalable, reliable, and independently deployable payment processing architecture**.
+
 
 #### 🔹 GOSAFARI – Vehicle Booking & Management System
 - [Google Play Link](https://play.google.com/store/apps/details?id=com.company.gosafari)  
