@@ -43,7 +43,6 @@ Java | Spring Boot | React JS | Spring Security | Microservices | REST APIs | Hi
 #### 🔹 Hospital Management System (HMS)
 * **Duration:** 2025 – Present
 * **Tech Stack:** Java, Spring Boot, Microservices, JPA/Hibernate, PostgreSQL/MySQL, Spring Security, JWT Authentication, Swagger, Docker, REST APIs
-* Migrated a full-featured Hospital Management System backend from **NestJS to Java Spring Boot microservices architecture**.
 * Implemented multi-role system: **Super Admin, Hospital Admin, and Hospital Staff** with role-based access control using **Spring Security + JWT**.
 * Designed independent microservices for **Patient Management, Inventory, Pharmacy, Payment, and Supplier** management.
 * Implemented hospital registration & approval workflow — hospitals register as **PENDING** and are activated by Super Admin.
