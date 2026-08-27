@@ -41,7 +41,7 @@ Java | Spring Boot | React JS | Spring Security | Microservices | REST APIs | Hi
 - Optimized performance using indexing, query tuning, and Redis caching. Deployed on Linux VPS.
 
 #### 🔹 Hospital Management System (HMS)
-* **Duration:** 2025 – Present
+* **Duration:** 2026 – Present
 * **Tech Stack:** Java, Spring Boot, Microservices, JPA/Hibernate, PostgreSQL/MySQL, Spring Security, JWT Authentication, Swagger, Docker, REST APIs
 * Implemented multi-role system: **Super Admin, Hospital Admin, and Hospital Staff** with role-based access control using **Spring Security + JWT**.
 * Designed independent microservices for **Patient Management, Inventory, Pharmacy, Payment, and Supplier** management.
@@ -54,12 +54,22 @@ Java | Spring Boot | React JS | Spring Security | Microservices | REST APIs | Hi
 
 
 #### 🔹 CPMS – Client & Project Management System
-- **Duration:** 2025 – Present
+- **Duration:** 2026 – Present
 - **Tech Stack:** React.js, TypeScript, Electron.js, Redux Toolkit, REST APIs
 - Building a **desktop application** for client and project management using Electron.js + React.js.
 - Implemented Redux Toolkit for global state management across clients, projects, and tasks.
 - Designed a clean, professional UI with muted Steel & Mauve color palette for business use.
 - Features include client onboarding, project tracking, task management, and reporting dashboards.
+
+####🔹 SiancePay – UPI-Based Payments Platform
+Duration: 2026 – Present
+Tech Stack: Java 21, Spring Boot 3.5, MySQL, Apache Kafka, Redis, Spring Cloud Gateway, Eureka, Docker, Kubernetes, Swagger/OpenAPI
+Designed and contributed to a UPI-aligned payments platform built on a microservices architecture with dedicated services for authentication, accounts, transactions, notifications, and API gateway/service discovery.
+Implemented JWT-based authentication and security layer, with Redis-backed caching for OTP, tokens, and idempotency handling.
+Built event-driven communication between services using Kafka for transaction and notification workflows.
+Contributed to inter-service reliability patterns (idempotent REST calls, reconciliation checks) to maintain data consistency across independently deployed services.
+Containerized services with Docker and orchestrated deployment via Kubernetes, with CI/CD pipelines per service.
+Documented APIs using springdoc-openapi/Swagger UI across all services.
 
 #### 🔹 GOSAFARI – Vehicle Booking & Management System
 - [Google Play Link](https://play.google.com/store/apps/details?id=com.company.gosafari)  
