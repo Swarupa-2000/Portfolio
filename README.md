@@ -41,16 +41,18 @@ Java | Spring Boot | React JS | Spring Security | Microservices | REST APIs | Hi
 - Optimized performance using indexing, query tuning, and Redis caching. Deployed on Linux VPS.
 
 #### 🔹 Hospital Management System (HMS)
-- **Duration:** 2025 – Present
-- **Tech Stack:** Node.js, NestJS, TypeScript, Prisma ORM, PostgreSQL, JWT Authentication, Swagger, Docker, REST APIs
-- Built a full-featured Hospital Management System backend using **NestJS** with modular architecture.
-- Implemented multi-role system: **Super Admin, Hospital Admin, and Hospital Staff** with role-based access control.
-- Designed modules for **Patient Management, Inventory, Pharmacy, Payment (Razorpay), and Supplier** management.
-- Implemented hospital registration & approval workflow — hospitals register as PENDING and are activated by Super Admin.
-- Secured APIs using **JWT + Passport**, with rate limiting (Throttler) and security headers (Helmet).
-- Used **Prisma ORM** with PostgreSQL for type-safe database access and managed migrations.
-- Containerized using **Docker** with separate dev and production Docker Compose configurations.
-- Documented all APIs via **Swagger UI** with clear permission matrix across roles.
+* **Duration:** 2025 – Present
+* **Tech Stack:** Java, Spring Boot, Microservices, JPA/Hibernate, PostgreSQL/MySQL, Spring Security, JWT Authentication, Swagger, Docker, REST APIs
+* Migrated a full-featured Hospital Management System backend from **NestJS to Java Spring Boot microservices architecture**.
+* Implemented multi-role system: **Super Admin, Hospital Admin, and Hospital Staff** with role-based access control using **Spring Security + JWT**.
+* Designed independent microservices for **Patient Management, Inventory, Pharmacy, Payment, and Supplier** management.
+* Implemented hospital registration & approval workflow — hospitals register as **PENDING** and are activated by Super Admin.
+* Secured APIs using **JWT + Spring Security**, with role-based authorization and protected REST endpoints.
+* Used **JPA/Hibernate** with PostgreSQL/MySQL for database operations and entity relationship management.
+* Implemented **REST API-based communication between microservices** for modular and scalable service integration.
+* Containerized microservices using **Docker** with separate development and production configurations.
+* Documented all APIs via **Swagger UI** with a clear permission matrix across roles.
+
 
 #### 🔹 CPMS – Client & Project Management System
 - **Duration:** 2025 – Present
