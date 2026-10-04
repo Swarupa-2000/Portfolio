@@ -97,7 +97,7 @@ Java | Spring Boot | React JS | Spring Security | Microservices | REST APIs | Hi
 * Optimized database queries using JPA and indexing.
 * Ensured modular and scalable microservices deployment.
 
-* #### 🔹 Sumi Gallery – Artist Portfolio & Artwork Management System
+ #### 🔹 Sumi Gallery – Artist Portfolio & Artwork Management System
 
 * **Duration:** 2026 – Present
 * **Project Type:** Full-Stack Artist Portfolio & Artwork Management System
