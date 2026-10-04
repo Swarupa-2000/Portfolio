@@ -97,6 +97,23 @@ Java | Spring Boot | React JS | Spring Security | Microservices | REST APIs | Hi
 * Optimized database queries using JPA and indexing.
 * Ensured modular and scalable microservices deployment.
 
+* #### 🔹 Sumi Gallery – Artist Portfolio & Artwork Management System
+
+* **Duration:** 2026 – Present
+* **Project Type:** Full-Stack Artist Portfolio & Artwork Management System
+* **Tech Stack:** Java 21, Spring Boot 3.5, React.js, Vite, Spring Security, JWT Authentication, REST APIs, Maven, Git
+* Developed a full-stack artist portfolio and artwork management system using React.js and Spring Boot.
+* Built a responsive customer gallery for showcasing artwork and presenting the artist's portfolio.
+* Developed a separate admin panel for managing artwork and gallery content.
+* Implemented REST APIs using Spring Boot with layered architecture including Controller, Service, Repository, and Entity layers.
+* Implemented JWT-based authentication and Spring Security authorization for secure admin access.
+* Integrated React.js frontend with Spring Boot backend using REST APIs and Vite.
+* Implemented artwork image upload, storage, and backend-based image serving functionality.
+* Designed separate customer and admin interfaces with a clean and responsive user experience.
+* Configured frontend API proxying for seamless communication between React.js and Spring Boot during development.
+* Built the application with a scalable frontend-backend architecture suitable for production deployment.
+
+
 **🤖 Generative AI Usage:**
 
 * Built using Generative AI-assisted development workflow.
